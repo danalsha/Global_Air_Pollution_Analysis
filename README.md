@@ -2,6 +2,7 @@
 ### CS316 — Introduction to AI and Data Science
 **Prince Sultan University**
 Instructor: Dr. Sawsan Alhalawani
+
 Prepared by: Danah Alshawi & Renad Hajij
 
 
